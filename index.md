@@ -19,3 +19,67 @@ Some mockup pages include:
 - Admin home page
 - User profile page.
 - Browse users by taste, ability, instrument, goals, etc.
+
+# User Interface
+These will be the mockup pages that will be used as a basis for this final project.
+
+## Landing Page
+<img src="images/landing-page.png">
+
+Upon entering the site, the user has the ability to:
+- Create Profile and Login
+- Network with Musicians
+- Browse by Interests
+
+## User Home Page
+<img src="images/home-page.png">
+
+Upon logging in, the user has the ability to:
+- View Own Profile
+- Browse Users
+
+## Browsing Users
+<img src="images/browse-users.png">
+
+The page will contain:
+- Cards for every user
+- Search bar filtering users by category
+
+This page will contain profile cards for every user containing the following information:
+- Name
+- Music Interests
+- Goals
+- "View Profile" Button
+
+## Profile Page
+This page will be an exploded version of a single user, containing more information such as:
+- Name
+- Music Interests
+- Instruments that they play
+- Skill Level
+- Goals
+- Location
+- Contact Information
+
+If the profile belongs to the user logged in, they will be able to:
+- View their own Profile
+- Edit their Profile
+
+## Edit Profile
+<img src="images/edit-profile.png">
+
+This will edit the information for a user, which contain edit fields for:
+- Name
+- Music Interests
+- Goals
+- Location
+- Instruments Played
+- Contact Information
+- Skill level (can be a slider/radio button)
+
+## Admin Page
+<img src="images/admin-page.png">
+
+In this page, admin users have the ability to:
+- View all Profiles
+- Edit and Delete Profiles
