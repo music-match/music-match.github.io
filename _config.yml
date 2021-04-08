@@ -1,3 +1,5 @@
 title: Music Match
 show_downloads: true
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
