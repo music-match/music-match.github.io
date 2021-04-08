@@ -78,12 +78,13 @@ If the profile belongs to the user logged in, they will be able to:
 
 This will edit the information for a user, which contain edit fields for:
 - Name
+- Image URL
 - Music Interests
 - Goals
 - Location
 - Instruments Played
 - Contact Information
-- Skill level (can be a slider/radio button)
+- Skill level
 
 ## Admin Page
 <img src="images/admin-page.png">
