@@ -96,6 +96,11 @@ In this page, admin users have the ability to:
 # Meet the Developers
 
 - [Preston Garcia](https://prestontgarcia.github.io/)
+	- In this project, I hope to experience working with a team while following the agile project management model. I also hope to hone my frontend and backend website development skills through the creation of our website.
 - [Ethan Chee](https://ethancheez.github.io/)
+	-  I would like to be able to design a website from scratch quickly, containing many features and user interfaces.
 - [Isaiah Eusebio](https://icce2k.github.io/)
+	-  I would like to gain more experience in app development and working with Meteor and React. Also, I would like to develop my teamwork and project management skills. 
 - [Adam Parrilla](https://adamjparrilla.github.io/)
+	- I’d like to work on adapting web designs to use the things we’ve learned to create a website. I’d also like to gain experience working with a group to design a project and expand my portfolio. 
+
