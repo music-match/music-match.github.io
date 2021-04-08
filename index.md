@@ -1,3 +1,9 @@
+# Table of Contents
+- [Overview](#overview)
+- [Approach](#approach)
+- [User Interface](#user-interface)
+- [Meet the Developers](#meet-the-developers)
+
 # Overview
 
 ### The Problem
@@ -52,6 +58,8 @@ This page will contain profile cards for every user containing the following inf
 - "View Profile" Button
 
 ## Profile Page
+<img src="images/view-profile.png">
+
 This page will be an exploded version of a single user, containing more information such as:
 - Name
 - Music Interests
@@ -83,3 +91,11 @@ This will edit the information for a user, which contain edit fields for:
 In this page, admin users have the ability to:
 - View all Profiles
 - Edit and Delete Profiles
+
+
+# Meet the Developers
+
+- [Preston Garcia](https://prestontgarcia.github.io/)
+- [Ethan Chee](https://ethancheez.github.io/)
+- [Isaiah Eusebio](https://icce2k.github.io/)
+- [Adam Parrilla](https://adamjparrilla.github.io/)
