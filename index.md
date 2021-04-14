@@ -1,7 +1,9 @@
 # Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
+- [Deployment](#deployment)
 - [User Interface](#user-interface)
+- [Development History](#development-history)
 - [Meet the Developers](#meet-the-developers)
 
 # Overview
