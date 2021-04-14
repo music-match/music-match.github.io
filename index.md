@@ -119,13 +119,13 @@ In this page, admin users have the ability to:
 - View all Profiles
 - Edit and Delete Profiles
 
-## Milestones
+# Milestones
 Track our progress here:
 
 - [Milestone 1](https://github.com/music-match/music-match/projects/1)
 - [Milestone 2](https://github.com/music-match/music-match/projects/2)
 
-## Deployment
+# Deployment
 
 Check out our app: (Link to app running on Digital Ocean)
 
