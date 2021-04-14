@@ -36,6 +36,7 @@ Upon entering the site, the user has the ability to:
 - Create Profile and Login
 - Network with Musicians
 - Browse by Interests
+- Watch the jam that was chosen to be featured on the home page
 
 ## User Home Page
 <img src="images/home-page.png">
@@ -43,6 +44,8 @@ Upon entering the site, the user has the ability to:
 Upon logging in, the user has the ability to:
 - View Own Profile
 - Browse Users
+- Browse Jams
+- Watch the jam that was chosen to be featured on the home page
 
 ## Browsing Users
 <img src="images/browse-users.png">
@@ -56,6 +59,13 @@ This page will contain profile cards for every user containing the following inf
 - Music Interests
 - Goals
 - "View Profile" Button
+
+## Browsing Jams
+<img src="images/browse-jams.png">
+
+This page will contain:
+- Cards for jams created
+- Links to the creators of the jams
 
 ## Profile Page
 <img src="images/view-profile.png">
@@ -73,6 +83,14 @@ If the profile belongs to the user logged in, they will be able to:
 - View their own Profile
 - Edit their Profile
 
+## My Jams
+<img src="images/my-jams.png">
+
+This page will contain a list of jams created from your account, with an option to edit each of the jams. Each jam will have a:
+- Title
+- Youtube video
+- Description
+
 ## Edit Profile
 <img src="images/edit-profile.png">
 
@@ -85,6 +103,14 @@ This will edit the information for a user, which contain edit fields for:
 - Instruments Played
 - Contact Information
 - Skill level
+
+## Create Jams
+<img src="images/create-jams>
+
+This will allow you to create a jam, which requires the three fields for a jam:
+- Title
+- Youtube Video ID
+- Description
 
 ## Admin Page
 <img src="images/admin-page.png">
