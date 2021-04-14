@@ -26,6 +26,10 @@ Some mockup pages include:
 - User profile page.
 - Browse users by taste, ability, instrument, goals, etc.
 
+# Deployment
+
+Music Match is available live at (Link to app running on Digital Ocean).
+
 # User Interface
 These will be the mockup pages that will be used as a basis for this final project.
 
@@ -119,15 +123,10 @@ In this page, admin users have the ability to:
 - View all Profiles
 - Edit and Delete Profiles
 
-# Milestones
-Track our progress here:
+# Development History
 
-- [Milestone 1](https://github.com/music-match/music-match/projects/1)
-- [Milestone 2](https://github.com/music-match/music-match/projects/2)
-
-# Deployment
-
-Check out our app: (Link to app running on Digital Ocean)
+- Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
+- Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2)
 
 # Meet the Developers
 
