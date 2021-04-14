@@ -105,7 +105,7 @@ This will edit the information for a user, which contain edit fields for:
 - Skill level
 
 ## Create Jams
-<img src="images/create-jams>
+<img src="images/create-jams.png>
 
 This will allow you to create a jam, which requires the three fields for a jam:
 - Title
