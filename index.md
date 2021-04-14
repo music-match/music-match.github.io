@@ -12,7 +12,7 @@
 Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
 
 ### The Solution
-The [Music Match](https://github.com/music-match/music-match) application allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship.
+The [Music Match](https://github.com/music-match/music-match) application developed by [Music Match Inc.](https://github.com/music-match) allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship.
 
 # Approach
 Once a profile is created, others can browse the profiles filtered by specific tastes, capabilities, and goals to find compatible musicians to contact.
@@ -30,7 +30,7 @@ Some mockup pages include:
 
 # Deployment
 
-[Music Match](http://143.198.236.70/) is available live!
+The [Music Match Website](http://143.198.236.70/) is available live!
 
 # User Interface
 These will be the mockup pages that will be used as a basis for this final project.
