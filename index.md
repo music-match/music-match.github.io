@@ -28,7 +28,7 @@ Some mockup pages include:
 
 # Deployment
 
-[Music Match](http://143.198.236.70/) is available live!.
+[Music Match](http://143.198.236.70/) is available live!
 
 # User Interface
 These will be the mockup pages that will be used as a basis for this final project.
