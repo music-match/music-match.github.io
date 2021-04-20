@@ -25,7 +25,7 @@ Some mockup pages include:
 - Landing page
 - User home page
 - Admin home page
-- User profile page.
+- User profile page
 - Browse users by taste, ability, instrument, goals, etc.
 
 # Deployment
