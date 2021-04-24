@@ -118,12 +118,20 @@ This will allow you to create a jam, which requires the three fields for a jam:
 - Youtube Video ID
 - Description
 
-## Admin Page
-<img src="images/admin-page.png">
+## Browse Users Admin Page
+<img src="images/users-admin-page.png">
 
 In this page, admin users have the ability to:
 - View all Profiles
 - Edit and Delete Profiles
+
+## Browse Jams Admin Page
+<img src="images/jams-admin-page.png">
+
+In this page, admin users have the ability to:
+- View all Jams
+- Edit and Delete Jams
+- Change the Featured Jam to be Displayed in Landing
 
 # Development History
 
