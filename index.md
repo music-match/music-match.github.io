@@ -37,6 +37,7 @@ These will be the mockup pages that will be used as a basis for this final proje
 
 ## Landing Page
 <img src="images/landing-page.png">
+<img src="images/featured-jam.png">
 
 Upon entering the site, the user has the ability to:
 - Create Profile and Login
