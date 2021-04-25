@@ -92,7 +92,11 @@ I20210424-15:39:29.533(-10)? Monti APM: completed instrumenting the app
 Ignore “bcrypt warning”: Bcrypt is used for password checking and it is safe to ignore the warning during development stages.
 
 - You can now open up your app on a webpage at: [http://localhost:3000/](http://localhost:3000/)
-- To reset the app, exit meteor by pressing Control-C into the terminal, and type `meteor reset`.
+- To reset the app, exit meteor by pressing Control-C into the terminal, and type:
+
+```
+$ meteor reset
+```
 
 # User Interface
 These will be the mockup pages that will be used as a basis for this final project.
@@ -136,8 +140,9 @@ Upon logging in, the user has the ability to:
 
 This page will be an exploded version of a single user, containing more information such as:
 - Name
-- Address
+- Physical Address
 - Phone
+- Email Address
 - Goals
 - Instruments that they play
 - Music Interests
@@ -152,7 +157,7 @@ If the profile belongs to the user logged in, they will be able to:
 
 This will edit the profile information for a user, which contain edit fields for:
 - Name
-- Address (optional)
+- Physical Address (optional)
 - Phone (optional)
 - Image URL
 - Goals
