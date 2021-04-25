@@ -12,7 +12,7 @@
 Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
 
 ### The Solution
-The [Music Match](https://github.com/music-match/music-match) application developed by [Music Match Inc.](https://github.com/music-match) allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship.
+The [Music Match](https://github.com/music-match/music-match) application developed by [Music Match Inc.](https://github.com/music-match) allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). Users can share their own jam sessions through Youtube links to a Youtube video to their own jam.
 
 # Approach
 Once a profile is created, others can browse the profiles filtered by specific tastes, capabilities, and goals to find compatible musicians to contact.
@@ -22,11 +22,13 @@ Students can also set up notifications to find out automatically when a profile 
 Admins can monitor the site for inappropriate content, and create new categories of musical tastes, capabilities, and goals.
 
 Some mockup pages include:
-- Landing page
-- User home page
-- Admin home page
-- User profile page
-- Browse users by taste, ability, instrument, goals, etc.
+- Landing Page
+- User home Page
+- About Us Page
+- User profile Page
+- Edit Profile Page
+- Browse Jams by other users
+- Browse users by name or musical interests.
 
 # Deployment
 
@@ -40,19 +42,24 @@ These will be the mockup pages that will be used as a basis for this final proje
 <img src="images/featured-jam.png">
 
 Upon entering the site, the user has the ability to:
-- Create Profile and Login
-- Network with Musicians
-- Browse by Interests
-- Watch the jam that was chosen to be featured on the home page
+- Login to their previously created account
+- Register and create a new account
+- Visit the About Us Page
+- View the News and Events of the website
+- Watch the Featured Jam 
 
 ## User Home Page
 <img src="images/home-page.png">
 
 Upon logging in, the user has the ability to:
-- View Own Profile
-- Browse Users
-- Browse Jams
-- Watch the jam that was chosen to be featured on the home page
+- Do anything from the landing page
+- Visit and view their own profile
+- Visit the browse users page
+- Visit and view other jams, own jams, and create new jams
+
+## About Us
+
+This page is in development.
 
 ## Browsing Users
 <img src="images/browse-users.png">
