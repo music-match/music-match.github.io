@@ -41,16 +41,20 @@ The [Music Match Website](http://143.198.236.70/) is available live!
 - Second, download the [Music Match Repo](https://github.com/music-match/music-match) into your local system.
 - Third, open a terminal and navigate into the music-match/app directory.
 - Fourth, install the required meteor libraries by typing the following into the terminal:
+
 ```
 $ meteor npm install
 ```
 
 ## Running the Application
 - Upon completion of the installation process, ensure you are still in the music-match/app directory and enter the following into the terminal:
+
 ```
 $ meteor npm run start
 ```
+
 - If this is your first time starting the application, it will create the default data. This should be the output:
+
 ```
 => Started proxy.
 => Started MongoDB.
