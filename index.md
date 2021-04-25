@@ -34,6 +34,62 @@ Some mockup pages include:
 
 The [Music Match Website](http://143.198.236.70/) is available live!
 
+# Developer Guide
+
+## Installation
+- First, [install meteor](https://www.meteor.com/developers/install).
+- Second, download the [Music Match Repo](https://github.com/music-match/music-match) into your local system.
+- Third, open a terminal and navigate into the music-match/app directory.
+- Fourth, install the required meteor libraries by typing the following into the terminal:
+```
+$ meteor npm install
+```
+
+## Running the Application
+- Upon completion of the installation process, ensure you are still in the music-match/app directory and enter the following into the terminal:
+```
+$ meteor npm run start
+```
+- If this is your first time starting the application, it will create the default data. This should be the output:
+```
+=> Started proxy.
+=> Started MongoDB.
+W20210424-15:39:27.766(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20210424-15:39:27.867(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20210424-15:39:27.867(-10)? (STDERR) approximately three times slower than the native implementation.
+W20210424-15:39:27.867(-10)? (STDERR) In order to use the native implementation instead, run
+W20210424-15:39:27.867(-10)? (STDERR) 
+W20210424-15:39:27.868(-10)? (STDERR)   meteor npm install --save bcrypt
+W20210424-15:39:27.868(-10)? (STDERR) 
+W20210424-15:39:27.868(-10)? (STDERR) in the root directory of your application.
+I20210424-15:39:28.646(-10)? Creating the default user(s)
+I20210424-15:39:28.646(-10)?   Creating user ethanwc@hawaii.edu.
+I20210424-15:39:28.818(-10)?   Creating user garcia77@hawaii.edu.
+I20210424-15:39:28.968(-10)?   Creating user icce@hawaii.edu.
+I20210424-15:39:29.115(-10)?   Creating user ajp808@hawaii.edu.
+I20210424-15:39:29.263(-10)?   Creating user john@foo.com.
+I20210424-15:39:29.430(-10)? Creating default profiles.
+I20210424-15:39:29.430(-10)?   Adding: Philip Johnson (john@foo.com)
+I20210424-15:39:29.434(-10)?   Adding: Ethan Chee (ethanwc@hawaii.edu)
+I20210424-15:39:29.436(-10)?   Adding: Preston Garcia (garcia77@hawaii.edu)
+I20210424-15:39:29.437(-10)?   Adding: Isaiah Eusebio (icce@hawaii.edu)
+I20210424-15:39:29.438(-10)?   Adding: Adam Parrilla (ajp808@hawaii.edu)
+I20210424-15:39:29.440(-10)? Creating default Music Interests.
+I20210424-15:39:29.453(-10)? Creating default Jams.
+I20210424-15:39:29.468(-10)? Creating default Featured Jam.
+I20210424-15:39:29.477(-10)? Creating list of Possible interests.
+I20210424-15:39:29.533(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+   
+```
+Ignore “bcrypt warning”: Bcrypt is used for password checking and it is safe to ignore the warning during development stages.
+
+- You can now open up your app on a webpage at: [http://localhost:3000/](http://localhost:3000/)
+- To reset the app, exit meteor by pressing Control-C into the terminal, and type `meteor reset`.
+
 # User Interface
 These will be the mockup pages that will be used as a basis for this final project.
 
