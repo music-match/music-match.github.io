@@ -95,7 +95,6 @@ These will be the mockup pages that will be used as a basis for this final proje
 
 ## Landing Page
 <img src="images/landing-page.png">
-<img src="images/featured-jam.png">
 
 Upon entering the site, the user has the ability to:
 - Login to their previously created account
@@ -104,18 +103,58 @@ Upon entering the site, the user has the ability to:
 - View the News and Events of the website
 - Watch the Featured Jam 
 
+## Create Profile Page
+
+Add stuff here
+
 ## User Home Page
+
+The first variation of the home page involves an existing profile for the logged in user. A preview of this page is shown below:
 <img src="images/home-page.png">
 
 Upon logging in, the user has the ability to:
 - Do anything from the landing page
-- Visit and view their own profile
-- Visit the browse users page
-- Visit and view other jams, own jams, and create new jams
+- View their [own profile](#profile-page)
+- Visit the [Browse Users page](#browsing-users)
+- View [all the jams](#browsing-jams) shared by other users, view [own jams](#my-jams) they shared, and [create new jams](#create-jams)
+- If the user is an admin, they will be able to navigate to the admin pages: [Browse Users (Admin)](#browse-users-admin-page) and [Browse Jams (Admin)](#browse-jams-admin-page)
 
-## About Us
+The second variation of the home page is only displayed when a user logs in with no profile setup in the system. A preview of this page is shown below:
+<img src="images/home-page-no-profile.png">
+Typically, this page is only seen if the user recently registered an account or if their profile was deleted by an admin.
 
-This page is in development.
+Upon logging in, the user has the ability to:
+- Do anything from the landing page
+- Visit the [Create Profile page](#create-profile-page)
+
+## Profile Page
+<img src="images/view-profile.png">
+
+This page will be an exploded version of a single user, containing more information such as:
+- Name
+- Address
+- Phone
+- Goals
+- Instruments that they play
+- Music Interests
+- Music Skill Level
+
+If the profile belongs to the user logged in, they will be able to:
+- Edit their Profile
+- Delete their Profile. There will be a secondary confirmation before deleting a profile.
+
+## Edit Profile
+<img src="images/edit-profile.png">
+
+This will edit the profile information for a user, which contain edit fields for:
+- Name
+- Address (optional)
+- Phone (optional)
+- Image URL
+- Goals
+- Instruments that they play
+- Music Interests
+- Music Skill level
 
 ## Browsing Users
 <img src="images/browse-users.png">
@@ -137,22 +176,6 @@ This page will contain:
 - Cards for jams created
 - Links to the creators of the jams
 
-## Profile Page
-<img src="images/view-profile.png">
-
-This page will be an exploded version of a single user, containing more information such as:
-- Name
-- Music Interests
-- Instruments that they play
-- Skill Level
-- Goals
-- Location
-- Contact Information
-
-If the profile belongs to the user logged in, they will be able to:
-- View their own Profile
-- Edit their Profile
-
 ## My Jams
 <img src="images/my-jams.png">
 
@@ -160,19 +183,6 @@ This page will contain a list of jams created from your account, with an option 
 - Title
 - Youtube video
 - Description
-
-## Edit Profile
-<img src="images/edit-profile.png">
-
-This will edit the information for a user, which contain edit fields for:
-- Name
-- Image URL
-- Music Interests
-- Goals
-- Location
-- Instruments Played
-- Contact Information
-- Skill level
 
 ## Create Jams
 <img src="images/create-jams.png">
@@ -196,6 +206,10 @@ In this page, admin users have the ability to:
 - View all Jams
 - Edit and Delete Jams
 - Change the Featured Jam to be Displayed in Landing
+
+## About Us Page
+
+This page is in development.
 
 # Development History
 
