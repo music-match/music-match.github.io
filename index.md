@@ -205,12 +205,18 @@ Upon clicking on the owner of the jam in the "Recommended By" section, the user 
 Users can search for jams by typing the title or description of the jam in the search bar. The page will automatically display jams that adhere to the criteria specified by the search bar.
 
 ## My Jams Page
+The My Jams page displays all the jams owned by the user.
 <img src="images/my-jams.png">
 
-This page will contain a list of jams created from your account, with an option to edit each of the jams. Each jam will have a:
+Jams are displayed on cards that contain the following information:
 - Title
-- Youtube video
-- Description
+- Embedded YouTube video
+- Descripton
+- Owner of the jam
+- "Edit" button
+- "Delete" button
+
+This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information with additional features to "Edit" and "Delete" the jam.
 
 ## Create Jams Page
 <img src="images/create-jams.png">
