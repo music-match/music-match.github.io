@@ -249,6 +249,7 @@ This page is in development.
 
 - Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
 - Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2): Significantly improve functionality of app, continue Front-End Development
+- Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find five UH community members to test site, implement acceptance testing 
 
 # Meet the Developers
 
