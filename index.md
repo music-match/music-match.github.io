@@ -2,7 +2,8 @@
 - [Overview](#overview)
 - [Approach](#approach)
 - [Deployment](#deployment)
-- [User Interface](#user-interface)
+- [Developer Guide](#developer-guide)
+- [User Guide](#user-guide)
 - [Development History](#development-history)
 - [Meet the Developers](#meet-the-developers)
 
@@ -98,7 +99,7 @@ Ignore “bcrypt warning”: Bcrypt is used for password checking and it is safe
 $ meteor reset
 ```
 
-# User Interface
+# User Guide
 These will be the mockup pages that will be used as a basis for this final project.
 
 ## Landing Page
@@ -132,8 +133,8 @@ The first variation of the home page involves an existing profile for the logged
 Upon logging in, the user has the ability to:
 - Do anything from the landing page
 - View their [own profile](#profile-page)
-- Visit the [Browse Users page](#browsing-users)
-- View [all the jams](#browsing-jams) shared by other users, view [own jams](#my-jams) they shared, and [create new jams](#create-jams)
+- Visit the [Browse Users page](#browse-users-page)
+- View [all the jams](#browse-jams-page) shared by other users, view [own jams](#my-jams-page) they shared, and [create new jams](#create-jams-page)
 - If the user is an admin, they will be able to navigate to the admin pages: [Browse Users (Admin)](#browse-users-admin-page) and [Browse Jams (Admin)](#browse-jams-admin-page)
 
 The second variation of the home page is only displayed when a user logs in with no profile setup in the system. A preview of this page is shown below:
