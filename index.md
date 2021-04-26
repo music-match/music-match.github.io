@@ -191,11 +191,18 @@ The "View Profile" button takes the user to the profile page of the card it was 
 Users can search for other profiles by typing a name or music interest in the search bar. The page will automatically display profiles that adhere to the criteria specified by the search bar.
 
 ## Browse Jams Page
+The Browse Jams page allows users to view jams posted by other users and easily search for jams by title or description.
 <img src="images/browse-jams.png">
 
-This page will contain:
-- Cards for jams created
-- Links to the creators of the jams
+Jams are displayed on cards that contain the following information:
+- Title
+- Embedded YouTube video
+- Descripton
+- Owner of the jam
+
+Upon clicking on the owner of the jam in the "Recommended By" section, the user will be redirected to the owner's profile page. This page is similar to the [My Profile](#profile-page) page except that the user cannot edit or delete the profile if they are not the owner.
+
+Users can search for other jams by typing the title or description of the jam in the search bar. The page will automatically display jams that adhere to the criteria specified by the search bar.
 
 ## My Jams Page
 <img src="images/my-jams.png">
