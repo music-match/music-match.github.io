@@ -241,7 +241,7 @@ In this page, admin users have the ability to:
 - Edit and Delete Jams
 - Change the Featured Jam to be Displayed in Landing
 
-## About Us Page
+# About Us Page
 <img src="images/about-us-page.png">
 
 In this page, viewers have the ability to: 
