@@ -242,8 +242,13 @@ In this page, admin users have the ability to:
 - Change the Featured Jam to be Displayed in Landing
 
 ## About Us Page
+<img src="images/about-us-page.png">
 
-This page is in development.
+In this page, viewers have the ability to: 
+- Read more about Music Match
+- Visit our Project Page
+- Read short bio about the developers
+- Link to developers Github and LinkedIn
 
 # Development History
 
