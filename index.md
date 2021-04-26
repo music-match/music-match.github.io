@@ -242,7 +242,7 @@ In this page, admin users have the ability to:
 - Change the Featured Jam to be Displayed in Landing
 
 # About Us Page
-<img src="images/about-us-page.png">
+<img src="images/about-us-page.jpg">
 
 In this page, viewers have the ability to: 
 - Read more about Music Match
