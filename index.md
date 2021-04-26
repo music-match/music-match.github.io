@@ -177,8 +177,10 @@ This will edit the profile information for a user, which contain edit fields for
 ## Browse Users Page
 <img src="images/browse-users.png">
 
-The page will contain:
-- Cards for every user
+The Browse Users page allows users to view a snapshot of other user profiles and easily search for users by name or music interest.
+
+This page displays:
+- Profile cards for every user
 - Search bar filtering users by category
 
 This page will contain profile cards for every user containing the following information:
