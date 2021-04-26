@@ -112,8 +112,9 @@ Upon entering the site, the user has the ability to:
 - Watch the Featured Jam 
 
 ## Create Profile Page
+<img src="images/create-profile.png">
 
-Add stuff here
+First-time users have the ability to create a profile once they have registered a new account.
 
 ## User Home Page
 
@@ -152,7 +153,7 @@ If the profile belongs to the user logged in, they will be able to:
 - Edit their Profile
 - Delete their Profile. There will be a secondary confirmation before deleting a profile.
 
-## Edit Profile
+## Edit Profile Page
 <img src="images/edit-profile.png">
 
 This will edit the profile information for a user, which contain edit fields for:
@@ -165,7 +166,7 @@ This will edit the profile information for a user, which contain edit fields for
 - Music Interests
 - Music Skill level
 
-## Browsing Users
+## Browse Users Page
 <img src="images/browse-users.png">
 
 The page will contain:
@@ -178,14 +179,14 @@ This page will contain profile cards for every user containing the following inf
 - Goals
 - "View Profile" Button
 
-## Browsing Jams
+## Browse Jams Page
 <img src="images/browse-jams.png">
 
 This page will contain:
 - Cards for jams created
 - Links to the creators of the jams
 
-## My Jams
+## My Jams Page
 <img src="images/my-jams.png">
 
 This page will contain a list of jams created from your account, with an option to edit each of the jams. Each jam will have a:
@@ -193,7 +194,7 @@ This page will contain a list of jams created from your account, with an option 
 - Youtube video
 - Description
 
-## Create Jams
+## Create Jams Page
 <img src="images/create-jams.png">
 
 This will allow you to create a jam, which requires the three fields for a jam:
