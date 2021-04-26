@@ -246,7 +246,7 @@ In this page, admin users have the ability to:
 
 In this page, viewers have the ability to: 
 - Read more about Music Match
-- Visit our Project Page
+- Visit the Project Page
 - Read short bio about the developers
 - Link to developers Github and LinkedIn
 
