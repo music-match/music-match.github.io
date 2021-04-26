@@ -175,19 +175,20 @@ This will edit the profile information for a user, which contain edit fields for
 - Music Skill level
 
 ## Browse Users Page
+The Browse Users page allows users to view a snapshot of other user profiles and easily search for users by name or music interest.
 <img src="images/browse-users.png">
 
-The Browse Users page allows users to view a snapshot of other user profiles and easily search for users by name or music interest.
-
-This page displays:
-- Profile cards for every user
-- Search bar filtering users by category
-
-This page will contain profile cards for every user containing the following information:
+User profiles are displayed on cards that contain the following information:
 - Name
-- Music Interests
+- Email address
 - Goals
-- "View Profile" Button
+- Music Interests
+- Profile picture
+- "View Profile" button
+
+The "View Profile" button takes the user to the profile page of the card it was clicked on. This page is similar to the [My Profile](#profile-page) page except that the user cannot edit or delete the profile if they are not the owner.
+
+Users can search for other users by typing a name or music interest in the search bar. The page will automatically display profiles that adhere to the criteria specified by the search bar.
 
 ## Browse Jams Page
 <img src="images/browse-jams.png">
