@@ -112,9 +112,17 @@ Upon entering the site, the user has the ability to:
 - Watch the Featured Jam 
 
 ## Create Profile Page
-<img src="images/create-profile.png">
+<img src="images/create-profile-page.png">
 
-First-time users have the ability to create a profile once they have registered a new account.
+When a new user registers an account, they will be redirected to create their profile. New users must finish creating their profile before gaining access to the entirety of the site.
+
+At the minimum, new users must enter information in the required fields:
+- Name
+- Image URL
+- Goals
+- Music Skill Level
+
+If the user does not fill out any required fields, an error message appears upon clicking the Submit button.
 
 ## User Home Page
 
