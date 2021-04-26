@@ -188,7 +188,7 @@ User profiles are displayed on cards that contain the following information:
 
 The "View Profile" button takes the user to the profile page of the card it was clicked on. This page is similar to the [My Profile](#profile-page) page except that the user cannot edit or delete the profile if they are not the owner.
 
-Users can search for other users by typing a name or music interest in the search bar. The page will automatically display profiles that adhere to the criteria specified by the search bar.
+Users can search for other profiles by typing a name or music interest in the search bar. The page will automatically display profiles that adhere to the criteria specified by the search bar.
 
 ## Browse Jams Page
 <img src="images/browse-jams.png">
