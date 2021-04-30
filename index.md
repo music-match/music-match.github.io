@@ -35,6 +35,8 @@ Some mockup pages include:
 
 The [Music Match Website](http://143.198.236.70/) is available live!
 
+![ci-badge](https://github.com/music-match/music-match/workflows/ci-music-match/badge.svg)
+
 # Developer Guide
 
 ## Installation
