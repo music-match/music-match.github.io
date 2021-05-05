@@ -221,6 +221,8 @@ Jams are displayed on cards that contain the following information:
 - "Comments" button
 - "Delete" button
 
+This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information with additional features to "Edit" and "Delete" the jam.
+
 If the user has not shared any jams to the site, a page will be displayed notifying them that they do not have any jams and a button to redirect them to share a jam:
 <img src="images/no-jams.png">
 
@@ -229,10 +231,10 @@ If the user has not shared any jams to the site, a page will be displayed notify
 
 This page displays the cards of all the jams the user has liked. Unliking jams on will remove it from this page.
 
+This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information.
+
 If the user did not like any jams, a page will be displayed notifying them that they do not have any liked jams and a button to redirect them to browse all the jams:
 <img src="images/no-liked-jams.png">
-
-This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information with additional features to "Edit" and "Delete" the jam.
 
 ## Create Jams Page
 <img src="images/create-jams.png">
@@ -279,8 +281,13 @@ In this page, viewers have the ability to:
 # Development History
 
 - Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
+<img src="images/M1.png">
+
 - Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2): Significantly improve functionality of app, continue Front-End Development
+<img src="images/M2.png">
+
 - Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing 
+<img src="images/M3.png">
 
 # Community Feedback
 
