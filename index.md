@@ -281,35 +281,38 @@ In this page, viewers have the ability to:
 # Development History
 
 - Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
+
 <img src="images/M1.png">
 
 - Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2): Significantly improve functionality of app, continue Front-End Development
+
 <img src="images/M2.png">
 
 - Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing 
+
 <img src="images/M3.png">
 
 # Community Feedback
 
 > I like how it is simple to use and is quick, user friendly, and has a cool name. I am not a fan of the color scheme, particularly the orange with black. I think the black is fine, but maybe not the orange. Also add a dislike button! I'm using this on safari and I couldn't play the youtube videos on the site. I had to open it on youtube. Good job!
 
-\- Tamah Tyau, Biology
+— Tamah Tyau, Biology
 
 > I like how you can meet new people and share interesting music that you think others may like. I suggest to add the ability to tag songs when adding them similar to how you made your personal interests, the ability to sort songs differently (alpha, latest posted, most likes, by poster, etc.), further the comment section (comment on a comment), a miniplayer in the background so that you can explore the rest of the site while listening to one song.
 
-\- Evan Kawaoka, Economics
+— Evan Kawaoka, Economics
 
 > I like the nice interface, cute bear gif, and layout of the jams are well sized. The signout page could use touchups (ex. background pictures). I suggest finding a way to tell the user to login/signup to use the site. When creating an account, have short descriptions/directions for each box. Have a big "browse jams" on the home page since its the main focus of the site. Allow user to apply genre filters when uploading jams. Sort jams by likes, genre. Not sure how featured video is picked but ideas could be random, by likes, trending etc.
 
-\- Kenton Wong, Mechanical Engineering
+— Kenton Wong, Mechanical Engineering
 
 > I like the simplicity of the overall website, very straight forward. Being nitpicky, I don't like how the icons on the home page aren't links that can be clicked on to direct you to 'Jams' for example. I suggest making the heart logo and 'Music Match' one home page button instead of two separate buttons. When a comment is made on a song can you show how many comments are on the song similar to how many likes there are on a song. Could you make it so that even if you don't have an account you can see what other people posted, but you need an account to post stuff and like and comment and things like that. The website is easy to navigate but some guidance on the homepage may make it easier for people that are using the website for the first time. Maybe make a way to chat with other people. Since this website is to meet other people with similar musical taste a chat function would be nice to have everything done on the website, but is unnecessary. But would be really cool.
 
-\- Scott Yuk, Information and Computer Sciences
+— Scott Yuk, Information and Computer Sciences
 
 > Having the ability to add a YouTube link to a Jam is pretty cool. However, there is no pagination of Jams, therefore as the database of Jams increases, the longer I will need to scroll. If I give a really long description, then the card that's associated with that Jam will be huge. Pretty nice, I think the image in the landing page is bit too blurry and the word "Music Match" can just have a transparent background.
 
-\- Jeff Wong, Information and Computer Sciences
+— Jeff Wong, Information and Computer Sciences
 
 # Meet the Developers
 
