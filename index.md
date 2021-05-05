@@ -281,16 +281,8 @@ In this page, viewers have the ability to:
 # Development History
 
 - Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
-
-<img src="images/M1.png">
-
 - Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2): Significantly improve functionality of app, continue Front-End Development
-
-<img src="images/M2.png">
-
 - Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing 
-
-<img src="images/M3.png">
 
 # Community Feedback
 
