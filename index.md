@@ -221,6 +221,17 @@ Jams are displayed on cards that contain the following information:
 - "Comments" button
 - "Delete" button
 
+If the user has not shared any jams to the site, a page will be displayed notifying them that they do not have any jams and a button to redirect them to share a jam:
+<img src="images/no-jams.png">
+
+## Liked Jams Page
+<img src="images/liked-jams-page.png">
+
+This page displays the cards of all the jams the user has liked. Unliking jams on will remove it from this page.
+
+If the user did not like any jams, a page will be displayed notifying them that they do not have any liked jams and a button to redirect them to browse all the jams:
+<img src="images/no-liked-jams.png">
+
 This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information with additional features to "Edit" and "Delete" the jam.
 
 ## Create Jams Page
