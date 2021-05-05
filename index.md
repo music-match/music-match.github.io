@@ -183,10 +183,10 @@ The Browse Users page allows users to view a snapshot of other user profiles and
 
 User profiles are displayed on cards that contain the following information:
 - Name
-- Email address
+- Email Address
 - Goals
 - Music Interests
-- Profile picture
+- Profile Picture
 - "View Profile" button
 
 The "View Profile" button takes the user to the profile page of the card it was clicked on. This page is similar to the [My Profile](#profile-page) page except that the user cannot edit or delete the profile if they are not the owner.
@@ -197,11 +197,11 @@ Users can search for profiles by typing a name or music interest in the search b
 The Browse Jams page allows users to view jams posted by other users and easily search for jams by title or description.
 <img src="images/browse-jams.png">
 
-Jams are displayed on cards that contain the following information:
-- Title
-- Embedded YouTube video
-- Descripton
-- Owner of the jam
+Jams are displayed on cards where users have the ability to:
+- Play the embedded YouTube video
+- View the jam recommender
+- Like the jam
+- Comment on the jam
 
 Upon clicking on the owner of the jam in the "Recommended By" section, the user will be redirected to the owner's profile page. This page is similar to the [My Profile](#profile-page) page except that the user cannot edit or delete the profile if they are not the owner.
 
@@ -212,11 +212,12 @@ The My Jams page displays all the jams owned by the user.
 <img src="images/my-jams.png">
 
 Jams are displayed on cards that contain the following information:
-- Title
+- Jam Title
 - Embedded YouTube video
-- Descripton
+- Description
 - Owner of the jam
 - "Edit" button
+- "Comments" button
 - "Delete" button
 
 This page is similar to the [Browse Jams](#browse-jams) page in that the cards of the jams contain the same information with additional features to "Edit" and "Delete" the jam.
@@ -226,23 +227,33 @@ This page is similar to the [Browse Jams](#browse-jams) page in that the cards o
 
 This will allow you to create a jam, which requires the three fields for a jam:
 - Title
-- Youtube Video ID
+- Youtube Video Link
 - Description
+
+## Comment Modal
+<img src="images/comment-modal.png">
+
+Each jam has a comment functionality. A modal pops up that allows users to:
+- Read comments posted by other users on that jam
+- Post comments
+- Delete their own comments
+- Admins can delete all comments
 
 ## Browse Users Admin Page
 <img src="images/users-admin-page.png">
 
 In this page, admin users have the ability to:
-- View all Profiles
-- Edit and Delete Profiles
+- View all profiles
+- Edit and delete profiles
 
 ## Browse Jams Admin Page
 <img src="images/jams-admin-page.png">
 
 In this page, admin users have the ability to:
-- View all Jams
-- Edit and Delete Jams
-- Change the Featured Jam to be Displayed in Landing
+- View all jams
+- Edit and delete jams
+- View the comments for that jam
+- Change the Featured Jam to be displayed in the Landing/Home Page
 
 ## About Us Page
 <img src="images/about-us-page.jpg">
@@ -250,14 +261,14 @@ In this page, admin users have the ability to:
 In this page, viewers have the ability to: 
 - Read more about Music Match
 - Visit the Project Page
-- Read short bio about the developers
+- Read a short bio about the developers
 - Link to developers Github and LinkedIn
 
 # Development History
 
 - Goals of [Milestone 1](https://github.com/music-match/music-match/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
 - Goals of [Milestone 2](https://github.com/music-match/music-match/projects/2): Significantly improve functionality of app, continue Front-End Development
-- Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find five UH community members to test site, implement acceptance testing 
+- Goals of [Milestone 3](https://github.com/music-match/music-match/projects/3): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing 
 
 # Meet the Developers
 
